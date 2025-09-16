@@ -4,15 +4,14 @@
 I'm a dedicated **Computer Engineering student** with a passion for advancing in **DevOps**, **Data Science**, and **Artificial Intelligence**. My focus is on building scalable solutions and exploring the latest in AI technologies.
 
 ## 🛠️ Technical Skills
-- **Languages:** C, C++, C#, JavaScript
-- **Frameworks:** React
+- **Languages:** C, C++, C#, JavaScript,Python
+- **Frameworks:** React,Flutter,Spring Boot
 - **DevOps:** Git, CI/CD, Docker (and more)
-- **Interests:** DevOps, AI innovations
+- **Interests:** DevOps, AI innovations,Hacking
 
 ## 🚀 Notable Projects
 - [Online Educational Platform](https://github.com/Shaith-Ahamed/online-educational-platformm): Building a scalable learning environment.
-- [QA](https://github.com/Shaith-Ahamed/QA): Question-answering system for smarter information retrieval.
-- [Sinhala Learning Website](https://github.com/Shaith-Ahamed/sinhala_learining_wesbite): Supporting native language learning online.
+  - [Sinhala Learning Website](https://github.com/Shaith-Ahamed/sinhala_learining_wesbite): Supporting native language learning online.
 
 ## 💡 Motto
 DevOps | Data Science | Artificial Intelligence
