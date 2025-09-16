@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Shaith Ahamed
 
-<!--
-**Shaith-Ahamed/Shaith-Ahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a dedicated **Computer Engineering student** with a passion for advancing in **DevOps**, **Data Science**, and **Artificial Intelligence**. My focus is on building scalable solutions and exploring the latest in AI technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** C, C++, C#, JavaScript
+- **Frameworks:** React
+- **DevOps:** Git, CI/CD, Docker (and more)
+- **Interests:** DevOps, AI innovations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects
+- [Online Educational Platform](https://github.com/Shaith-Ahamed/online-educational-platformm): Building a scalable learning environment.
+- [QA](https://github.com/Shaith-Ahamed/QA): Question-answering system for smarter information retrieval.
+- [Sinhala Learning Website](https://github.com/Shaith-Ahamed/sinhala_learining_wesbite): Supporting native language learning online.
+
+## 💡 Motto
+DevOps | Data Science | Artificial Intelligence
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/r-shaith-ahamed-5273b1240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B41ieim%2FbSqyFcerG%2FTCt5w%3D%3D)
+
+---
+
+_Actively exploring new AI technologies and growing my expertise in DevOps and software engineering._
